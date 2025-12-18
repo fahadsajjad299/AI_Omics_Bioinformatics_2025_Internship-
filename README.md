@@ -45,21 +45,21 @@ Advancing computational biology and bioinformatics through innovative AI applica
 - R installation and setup
 - RStudio configuration
 - Basic R console operations
-- 📄 [View Script](./Codes/Module_I_R_Programming/R_Introduction.R)
+
 
 **2. R_Syntax.R**
 - R basic syntax fundamentals
 - Variables and data types
 - Comments and structure
 - Basic operations and expressions
-- 📄 [View Script](./Codes/Module_I_R_Programming/R_Syntax.R)
+
 
 **3. R_Functions.R**
 - User-defined functions in R
 - Function parameters and return values
 - Function scope and environment
 - Built-in R functions
-- 📄 [View Script](./Codes/Module_I_R_Programming/R_Functions.R)
+
 
 **Topics Covered:**
 - ✅ R syntax and data structures (vectors, lists, matrices, data frames)
@@ -82,7 +82,7 @@ Advancing computational biology and bioinformatics through innovative AI applica
 - Background correction
 - Microarray preprocessing
 - Data visualization for QC
-- 📄 [View Script](./Codes/Module_II_Microarray_Data_Analysis/QC_&_Normaliztion.R)
+
 
 **2. Differential_Gene_Expressions.R**
 - Differential gene expression (DGE) analysis
@@ -91,7 +91,7 @@ Advancing computational biology and bioinformatics through innovative AI applica
 - P-value adjustment
 - Volcano plots and MA plots
 - Identification of significant genes
-- 📄 [View Script](./Codes/Module_II_Microarray_Data_Analysis/Differential_Gene_Expressions.R)
+
 
 **3. Functional_Enrichment_Analysis.R**
 - Gene Ontology (GO) analysis
