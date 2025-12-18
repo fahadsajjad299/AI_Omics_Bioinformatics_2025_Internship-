@@ -100,7 +100,7 @@ Advancing computational biology and bioinformatics through innovative AI applica
 - Gene Set Enrichment Analysis (GSEA)
 - Biological interpretation
 - Visualization of enrichment results
-- 📄 [View Script](./Codes/Module_II_Microarray_Data_Analysis/Functional_Enrichemt_Analysis.R)
+
 
 **Topics Covered:**
 - ✅ Microarray data retrieval (ArrayExpress, GEO)
